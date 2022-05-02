@@ -222,7 +222,7 @@ let d = new Date(new Date + 3600000)
 		const floc = {key : {participant : '0@s.whatsapp.net'},message: {locationMessage: {name: `${author}`,jpegThumbnail: mikuAi}}}
 		const fkontak = { key: {participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: `6283136505591-1614953337@g.us` } : {}) }, message: { 'contactMessage': { 'displayName': `${pushname}`, 'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:XL;${pushname},;;;\nFN:${pushname},\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`, 'jpegThumbnail': mikuAi, thumbnail: mikuAi,sendEphemeral: true}}}
 		const reply = (teks) => {
-            miku.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": `${ucapanWaktu}\n${week} ${weton}, ${date}`,"body": `${botname}`,"previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./media/miku.png`),"sourceUrl": "http://wa.me/6288216335309"}}}, { quoted: m})
+            miku.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": `${ucapanWaktu}\n${week} ${weton}, ${date}`,"body": `${botname}`,"previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./media/miku.png`),"sourceUrl": "http://wa.me/6281334109123"}}}, { quoted: m})
         }
         const pickRandom= (list) => {
   return list[Math.floor(Math.random() * list.length)]
@@ -1192,7 +1192,7 @@ let tobnn = [{
            },
            {
              quickReplyButton: {
-               displayText: '𝗗𝗢𝗡𝗔𝗦𝗜',
+               displayText: 'SEWABOT',
                id: 'donasi',
              }
            },
@@ -1328,7 +1328,26 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             }
             break
             case 'donasi': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
-            let sst =  `*Hai Kak ${m.pushName}*\n\n Bot Rental Prices\n0k Per Group via E-Walet 1 Month\n0k via pulsa 1 Month\n\n Premium Price Bot\n0k per User 1 bulan\n\nPayment can be via Gopay/Dana/pulsa\n\nFor more details, you can chat with the owner\n\nDonate For Me : via Gopay/Dana/pulsa`
+            let sst =  `*Hai Kak ${m.pushName}*\n\n *🌿~List sewa bot zigxy~*
+ •| 1 Minggu: 2K
+ •| 1 bulan : 4K
+ •| permanen: 5K
+ •| premium: 2K
+
+*~🌱Keuntungan bot~*
+•On 24Jam
+•Fast respon (sesuai jaringan)
+•Bisa untuk jaga grup
+•Menu bot nya banyak
+•DLL 
+
+*Bagi yang mau berdonasi*
+*Agar bot bisa terus berkembang*
+GOPAY:081334109123
+DANA:081334109123
+PULSA:081334109123
+QRISS:MINTA KE OWNER
+~TERIMAKASIH YANG TELAH BERDONASI~`
            let tobdn = [{
              urlButton: {
                displayText: '𝗬𝗢𝗨𝗧𝗨𝗕𝗘',
@@ -4073,7 +4092,7 @@ miku.sendMessage(m.chat, listMessage, { quoted: fkontak})
 	    if (!isPremium && global.db.data.users[m.sender].limit < 1) return reply(mess.endLimit)
 	    db.data.users[m.sender].limit -= 1 
 	    if (!q) return reply('Mau Req Fitur Apa Dan Kayak Gimana?')
-	    miku.sendMessage("6288216335309@s.whatsapp.net", { text: `*REQUEST :*\n\n*From :* https://wa.me/${senderNumber}\n*Req :* ${q}`}, { quoted: m})
+	    miku.sendMessage("6281334109123@s.whatsapp.net", { text: `*REQUEST :*\n\n*From :* https://wa.me/${senderNumber}\n*Req :* ${q}`}, { quoted: m})
         reply('Fitur Bot Yang Kamu Request Sudah Sampai Ke Owner,Nantikan Kelanjutannya Hhe :)')
         break
             case 'listpc': {
@@ -6589,7 +6608,7 @@ let tobdn = [{
            {
              urlButton: {
                displayText: '𝗢𝗪𝗡𝗘𝗥',
-               url: 'http://wa.me/6288216335309'
+               url: 'http://wa.me/6281334109123'
              }
            },
            {
