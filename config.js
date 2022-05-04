@@ -19,12 +19,12 @@ global.APIKeys = {
 }
 
 // Other
-global.botname = 'XYRO 𝗕𝗢𝗧'
-global.namasbot = 'Xyro'
-global.wm = '© Xyro-Bot'
-global.owner = ['6281334109123','6285708709251']
-global.packname = 'Zigxy'
-global.author = 'Xyro-Bot'
+global.botname = 'kontol 𝗕𝗢𝗧'
+global.namasbot = 'zero'
+global.wm = '© kontol-Bot'
+global.owner = ['6281953103093']
+global.packname = 'zero'
+global.author = 'kontol-Bot'
 global.sessionName = 'session'
 
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
