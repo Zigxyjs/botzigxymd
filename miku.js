@@ -1328,7 +1328,7 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             }
             break
             case 'donasi': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
-            let sst =  `*Hai Kak ${m.pushName}*\n\n *🌿~List sewa bot zigxy~*
+            let sst =  `*Hai Kak ${m.pushName}*\n\n *🌿~List sewa bot kuyy~*
  •| 1 Minggu: 2K
  •| 1 bulan : 4K
  •| permanen: 5K
@@ -1343,9 +1343,9 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
 
 *Bagi yang mau berdonasi*
 *Agar bot bisa terus berkembang*
-GOPAY:081334109123
-DANA:081334109123
-PULSA:081334109123
+GOPAY:085820253379
+DANA:085820253379
+PULSA:085820253379
 QRISS:MINTA KE OWNER
 ~TERIMAKASIH YANG TELAH BERDONASI~`
            let tobdn = [{
