@@ -19,12 +19,12 @@ global.APIKeys = {
 }
 
 // Other
-global.botname = 'kontol 𝗕𝗢𝗧'
-global.namasbot = 'zero'
-global.wm = '© kontol-Bot'
-global.owner = ['6281953103093']
-global.packname = 'zero'
-global.author = 'kontol-Bot'
+global.botname = 'KUY 𝗕𝗢𝗧'
+global.namasbot = 'kuyy'
+global.wm = '© KUY-Bot'
+global.owner = ['6285820253379']
+global.packname = 'KUYY'
+global.author = 'kuyy-Bot'
 global.sessionName = 'session'
 
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
