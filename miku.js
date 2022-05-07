@@ -1175,7 +1175,7 @@ let ownm = `┏━━━━━❲ 𝗢𝗪𝗡𝗘𝗥 🧑‍💻 ❳
 let tobnn = [{
              urlButton: {
                displayText: '𝗬𝗢𝗨𝗧𝗨𝗕𝗘',
-               url: 'https://youtube.com/channel/UCP4_s8Y7mKnhmZQemOq2xdw'
+               url: 'https://youtube.com/channel/UCPhDgHU4v9x7t40gsJgpjkA'
              }
            },
            {
@@ -1206,7 +1206,7 @@ let tobnn = [{
 let buttonmenu = [{
              urlButton: {
                displayText: '𝗬𝗢𝗨𝗧𝗨𝗕𝗘',
-               url: 'https://youtube.com/channel/UCP4_s8Y7mKnhmZQemOq2xdw'
+               url: 'https://youtube.com/channel/UCPhDgHU4v9x7t40gsJgpjkA'
              }
            },
            {
@@ -1351,7 +1351,7 @@ QRISS:MINTA KE OWNER
            let tobdn = [{
              urlButton: {
                displayText: '𝗬𝗢𝗨𝗧𝗨𝗕𝗘',
-               url: 'https://youtube.com/channel/UCP4_s8Y7mKnhmZQemOq2xdw'
+               url: 'https://youtube.com/channel/UCPhDgHU4v9x7t40gsJgpjkA'
              }
 
            },
@@ -1364,7 +1364,7 @@ QRISS:MINTA KE OWNER
            {
              urlButton: {
                displayText: '𝗢𝗪𝗡𝗘𝗥',
-               url: 'http://wa.me/6281334109123'
+               url: 'http://wa.me/6285820253379'
              }
            },
            {
@@ -1501,7 +1501,7 @@ miku.sendMessage(m.chat, listMessage, { quoted: fkontak})
               let tobn = [{
              urlButton: {
                displayText: '𝗬𝗢𝗨𝗧𝗨𝗕𝗘',
-               url: 'https://s.id/chyoutubeku'
+               url: 'https://youtube.com/channel/UCPhDgHU4v9x7t40gsJgpjkA'
              }
            },
            {
@@ -1541,7 +1541,7 @@ miku.sendMessage(m.chat, listMessage, { quoted: fkontak})
               let tobni = [{
              urlButton: {
                displayText: '𝗬𝗢𝗨𝗧𝗨𝗕𝗘',
-               url: 'https://s.id/chyoutubeku'
+               url: 'https://youtube.com/channel/UCPhDgHU4v9x7t40gsJgpjkA'
              }
            },
            {
@@ -3856,7 +3856,7 @@ miku.sendMessage(m.chat, listMessage, { quoted: fkontak})
                     let butoon = [{
                                 urlButton: {
                                     displayText: '𝗬𝗢𝗨𝗧𝗨𝗕𝗘',
-                                    url: 'https://s.id/chyoutubekug'
+                                    url: 'https://youtube.com/channel/UCPhDgHU4v9x7t40gsJgpjkA'
                                 }
                             },
                             {
@@ -3960,7 +3960,7 @@ miku.sendMessage(m.chat, listMessage, { quoted: fkontak})
                     let butoon = [{
                                 urlButton: {
                                     displayText: '𝗬𝗢𝗨𝗧𝗨𝗕𝗘',
-                                    url: 'https://s.id/chyoutubekug'
+                                    url: 'https://youtube.com/channel/UCPhDgHU4v9x7t40gsJgpjkA'
                                 }
                             },
                             {
@@ -4017,7 +4017,7 @@ miku.sendMessage(m.chat, listMessage, { quoted: fkontak})
 		    let butoon = [{
                                 urlButton: {
                                     displayText: '𝗬𝗢𝗨𝗧𝗨𝗕𝗘',
-                                    url: 'https://s.id/chyoutubekug'
+                                    url: 'https://youtube.com/channel/UCPhDgHU4v9x7t40gsJgpjkA'
                                 }
                             },
                             {
@@ -6602,13 +6602,13 @@ let tobdn = [{
            },{
              urlButton: {
                displayText: '𝗬𝗢𝗨𝗧𝗨𝗕𝗘',
-               url: 'https://s.id/chyoutubeku'
+               url: 'https://youtube.com/channel/UCPhDgHU4v9x7t40gsJgpjkA'
              }
            },
            {
              urlButton: {
                displayText: '𝗢𝗪𝗡𝗘𝗥',
-               url: 'http://wa.me/6281334109123'
+               url: 'http://wa.me/6285820253379'
              }
            },
            {
