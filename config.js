@@ -19,12 +19,12 @@ global.APIKeys = {
 }
 
 // Other
-global.botname = 'KUY 𝗕𝗢𝗧'
-global.namasbot = 'kuyy'
-global.wm = '© KUY-Bot'
-global.owner = ['6285820253379']
-global.packname = 'KUYY'
-global.author = 'kuyy-Bot'
+global.botname = 'KOTARO 𝗕𝗢𝗧'
+global.namasbot = 'KOTARO'
+global.wm = '© KOTARO-Bot'
+global.owner = ['6285242484330']
+global.packname = 'KOTARO'
+global.author = 'KOTARO-Bot'
 global.sessionName = 'session'
 
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
